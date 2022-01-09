@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b06e23ea411f45341a8c5f630c2193b6
+labels:
+- board
+- game
+- card
+- ace
+- poker
+- deck
+- heart
+- spade
+- club
+- diamond
+timeCreated: 1431622678
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

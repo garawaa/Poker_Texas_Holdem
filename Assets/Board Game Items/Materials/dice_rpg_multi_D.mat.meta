@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e5a7499a154d80546aa5d1341552a7c0
+labels:
+- board
+- game
+- dice
+- d4
+- d6
+- d8
+- d10
+- d20
+- rpg
+timeCreated: 1430932187
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

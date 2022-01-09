@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53329b38e018b1e45b095a1cefe0997b
+labels:
+- board
+- game
+- card
+- poker
+- heart
+- ace
+timeCreated: 1431529582
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

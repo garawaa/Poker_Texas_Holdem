@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: e6339b4158ce7c34191fe72cc736a358
+timeCreated: 1493909947
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cardsMobile:A_club
+    100004: cardsMobile:A_diamond
+    100006: cardsMobile:A_heart
+    100008: cardsMobile:A_spade
+    100010: cardsMobile:JACK_club
+    100012: cardsMobile:JACK_diamond
+    100014: cardsMobile:JACK_heart
+    100016: cardsMobile:JACK_spade
+    100018: cardsMobile:JOKER
+    100020: cardsMobile:KING_club
+    100022: cardsMobile:KING_diamond
+    100024: cardsMobile:KING_heart
+    100026: cardsMobile:KING_spade
+    100028: cardsMobile:QUEEN_club
+    100030: cardsMobile:QUEEN_diamond
+    100032: cardsMobile:QUEEN_heart
+    100034: cardsMobile:QUEEN_spade
+    100036: cardsMobile:JOKER_big
+    100038: cardsMobile:JOKER_mobile
+    100040: cardsMobile:STAR
+    400000: //RootNode
+    400002: cardsMobile:A_club
+    400004: cardsMobile:A_diamond
+    400006: cardsMobile:A_heart
+    400008: cardsMobile:A_spade
+    400010: cardsMobile:JACK_club
+    400012: cardsMobile:JACK_diamond
+    400014: cardsMobile:JACK_heart
+    400016: cardsMobile:JACK_spade
+    400018: cardsMobile:JOKER
+    400020: cardsMobile:KING_club
+    400022: cardsMobile:KING_diamond
+    400024: cardsMobile:KING_heart
+    400026: cardsMobile:KING_spade
+    400028: cardsMobile:QUEEN_club
+    400030: cardsMobile:QUEEN_diamond
+    400032: cardsMobile:QUEEN_heart
+    400034: cardsMobile:QUEEN_spade
+    400036: cardsMobile:JOKER_big
+    400038: cardsMobile:JOKER_mobile
+    400040: cardsMobile:STAR
+    2300000: cardsMobile:A_club
+    2300002: cardsMobile:A_diamond
+    2300004: cardsMobile:A_heart
+    2300006: cardsMobile:A_spade
+    2300008: cardsMobile:JACK_club
+    2300010: cardsMobile:JACK_diamond
+    2300012: cardsMobile:JACK_heart
+    2300014: cardsMobile:JACK_spade
+    2300016: cardsMobile:JOKER
+    2300018: cardsMobile:KING_club
+    2300020: cardsMobile:KING_diamond
+    2300022: cardsMobile:KING_heart
+    2300024: cardsMobile:KING_spade
+    2300026: cardsMobile:QUEEN_club
+    2300028: cardsMobile:QUEEN_diamond
+    2300030: cardsMobile:QUEEN_heart
+    2300032: cardsMobile:QUEEN_spade
+    2300034: cardsMobile:JOKER_big
+    2300036: cardsMobile:JOKER_mobile
+    2300038: cardsMobile:STAR
+    3300000: cardsMobile:A_club
+    3300002: cardsMobile:A_diamond
+    3300004: cardsMobile:A_heart
+    3300006: cardsMobile:A_spade
+    3300008: cardsMobile:JACK_club
+    3300010: cardsMobile:JACK_diamond
+    3300012: cardsMobile:JACK_heart
+    3300014: cardsMobile:JACK_spade
+    3300016: cardsMobile:JOKER
+    3300018: cardsMobile:KING_club
+    3300020: cardsMobile:KING_diamond
+    3300022: cardsMobile:KING_heart
+    3300024: cardsMobile:KING_spade
+    3300026: cardsMobile:QUEEN_club
+    3300028: cardsMobile:QUEEN_diamond
+    3300030: cardsMobile:QUEEN_heart
+    3300032: cardsMobile:QUEEN_spade
+    3300034: cardsMobile:JOKER_big
+    3300036: cardsMobile:JOKER_mobile
+    3300038: cardsMobile:STAR
+    4300000: cardsMobile:JACK_spade
+    4300002: cardsMobile:JACK_club
+    4300004: cardsMobile:JACK_heart
+    4300006: cardsMobile:JACK_diamond
+    4300008: cardsMobile:A_spade
+    4300010: cardsMobile:A_club
+    4300012: cardsMobile:A_heart
+    4300014: cardsMobile:A_diamond
+    4300016: cardsMobile:JOKER
+    4300018: cardsMobile:QUEEN_spade
+    4300020: cardsMobile:QUEEN_club
+    4300022: cardsMobile:QUEEN_heart
+    4300024: cardsMobile:QUEEN_diamond
+    4300026: cardsMobile:KING_spade
+    4300028: cardsMobile:KING_club
+    4300030: cardsMobile:KING_heart
+    4300032: cardsMobile:KING_diamond
+    4300034: cardsMobile:STAR
+    4300036: cardsMobile:JOKER_big
+    4300038: cardsMobile:JOKER_mobile
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.25
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

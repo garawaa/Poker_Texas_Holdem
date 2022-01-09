@@ -1,0 +1,17 @@
+-dontshrink
+-dontoptimize
+-dontobfuscate
+-android
+-keep class bitter.jnibridge.* { *; }
+-keep class com.unity3d.player.* { *; }
+-keep interface com.unity3d.player.IUnityPlayerLifecycleEvents { *; }
+-keep class org.fmod.* { *; }
+-keep class com.google.androidgamesdk.ChoreographerCallback { *; }
+-keep class com.google.androidgamesdk.SwappyDisplayManager { *; }
+-keep class io.grpc.grpc-api-1.28.0.SynchronizationContext$1 { *; }
+-keep class GoogleSignIn{ *; }
+-keep class GoogleSignInConfiguration{ *; }
+-keep class GoogleSignInStatusCode{ *; }
+-keep class Google_SignIn{ *; }
+-ignorewarnings
+-keepattributes InnerClasses

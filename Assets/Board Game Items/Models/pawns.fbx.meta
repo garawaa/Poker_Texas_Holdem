@@ -1,0 +1,105 @@
+fileFormatVersion: 2
+guid: 739d9c50b2309c64798277839781e75c
+labels:
+- board
+- game
+- draught
+- draughts
+- ludo
+- pawn
+timeCreated: 1431189776
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pawns:draughts_black
+    100004: pawns:draughts_white
+    100006: pawns:simple_blue
+    100008: pawns:simple_green
+    100010: pawns:simple_red
+    100012: pawns:simple_yellow
+    400000: //RootNode
+    400002: pawns:draughts_black
+    400004: pawns:draughts_white
+    400006: pawns:simple_blue
+    400008: pawns:simple_green
+    400010: pawns:simple_red
+    400012: pawns:simple_yellow
+    2300000: pawns:draughts_black
+    2300002: pawns:draughts_white
+    2300004: pawns:simple_blue
+    2300006: pawns:simple_green
+    2300008: pawns:simple_red
+    2300010: pawns:simple_yellow
+    3300000: pawns:draughts_black
+    3300002: pawns:draughts_white
+    3300004: pawns:simple_blue
+    3300006: pawns:simple_green
+    3300008: pawns:simple_red
+    3300010: pawns:simple_yellow
+    4300000: pawns:simple_red
+    4300002: pawns:simple_yellow
+    4300004: pawns:simple_blue
+    4300006: pawns:simple_green
+    4300008: pawns:draughts_white
+    4300010: pawns:draughts_black
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.25
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

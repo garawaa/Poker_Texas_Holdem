@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f26ae44b529c19d4b9e55fcdf087fd6a
+labels:
+- board
+- game
+- token
+- counter
+- poker
+timeCreated: 1430933324
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

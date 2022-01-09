@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "626434675235",
+    "project_id": "poker-all-in-texas-holdem",
+    "storage_bucket": "poker-all-in-texas-holdem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626434675235:android:f996c75362cf0b64c99796",
+        "android_client_info": {
+          "package_name": "com.SynergyGames.PokerAllInTexasHoldem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626434675235-6tpo68dcj0iaouhkf1gm543sqingqush.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SynergyGames.PokerAllInTexasHoldem",
+            "certificate_hash": "ba3fd38c05a1878f4a86e6a150fab64ad24aa10b"
+          }
+        },
+        {
+          "client_id": "626434675235-9tl9vj3mjrtmcte572dsbv8e2s2o3lre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SynergyGames.PokerAllInTexasHoldem",
+            "certificate_hash": "d6e72c80b7c477f03e588fa2a87214f666b7a519"
+          }
+        },
+        {
+          "client_id": "626434675235-5mlt44fnjdr9d43j5eqdoe7nvl4mmrca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUCQcbx1eKDz9MxE0AjuKrwJ_6opchSC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626434675235-5mlt44fnjdr9d43j5eqdoe7nvl4mmrca.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "626434675235-ebqnj6p3lk7ihj0lfu03bllkk6kcauem.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.SynergyGames.PokerAllInTexasHoldem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

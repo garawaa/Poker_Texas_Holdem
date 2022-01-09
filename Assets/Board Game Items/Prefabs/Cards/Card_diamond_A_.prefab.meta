@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 99e5632e2d142104189a80dc568cf8d7
+labels:
+- board
+- game
+- card
+- poker
+- diamond
+- ace
+timeCreated: 1431529777
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

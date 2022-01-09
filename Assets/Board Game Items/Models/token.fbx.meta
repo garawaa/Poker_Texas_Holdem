@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: 147f190410311624fa9d1e74b8203104
+labels:
+- board
+- game
+- token
+- counter
+timeCreated: 1431679115
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: token:counterBlue
+    100004: token:counterGreen
+    100006: token:counterRed
+    100008: token:counterYellow
+    100010: token:pokerBlack
+    100012: token:pokerBlue
+    100014: token:pokerGreen
+    100016: token:pokerRed
+    100018: token:pokerWhite
+    400000: //RootNode
+    400002: token:counterBlue
+    400004: token:counterGreen
+    400006: token:counterRed
+    400008: token:counterYellow
+    400010: token:pokerBlack
+    400012: token:pokerBlue
+    400014: token:pokerGreen
+    400016: token:pokerRed
+    400018: token:pokerWhite
+    2300000: token:counterBlue
+    2300002: token:counterGreen
+    2300004: token:counterRed
+    2300006: token:counterYellow
+    2300008: token:pokerBlack
+    2300010: token:pokerBlue
+    2300012: token:pokerGreen
+    2300014: token:pokerRed
+    2300016: token:pokerWhite
+    3300000: token:counterBlue
+    3300002: token:counterGreen
+    3300004: token:counterRed
+    3300006: token:counterYellow
+    3300008: token:pokerBlack
+    3300010: token:pokerBlue
+    3300012: token:pokerGreen
+    3300014: token:pokerRed
+    3300016: token:pokerWhite
+    4300000: token:pokerWhite
+    4300002: token:pokerRed
+    4300004: token:pokerBlue
+    4300006: token:pokerGreen
+    4300008: token:pokerBlack
+    4300010: token:counterBlue
+    4300012: token:counterYellow
+    4300014: token:counterGreen
+    4300016: token:counterRed
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.25
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
